@@ -1,4 +1,4 @@
-# 👋 Hi, I'm GuilhermeLopesV
+# 👋 Hi, I'm Guilherme Lopes Vieira  
 
 💻 **Programming student** | 📍 Brazil | 🎯 Passionate about learning and building projects  
 
@@ -20,15 +20,15 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermelopesvieira&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelopesvieira&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](www.linkedin.com/in/guilherme-lopes-0ab222278])
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-lopes-0ab222278/)  
 
 ---
+
 ✨ *"Code is like humor. When you have to explain it, it’s bad."*  
