@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Guilherme Lopes Vieira  
+# 👋 Hi, I'm GuilhermeLopesV
 
 💻 **Programming student** | 📍 Brazil | 🎯 Passionate about learning and building projects  
 
@@ -27,7 +27,7 @@
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](www.linkedin.com/in/guilherme-lopes-0ab222278)
+[![LinkedIn](www.linkedin.com/in/guilherme-lopes-0ab222278])
 
 
 ---
