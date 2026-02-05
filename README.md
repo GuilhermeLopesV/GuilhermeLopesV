@@ -21,11 +21,12 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermelopesvieira&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelopesvieira&layout=compact&theme=tokyonight)
+
 
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](www.linkedin.com/in/guilherme-lopes-vieira)
+[![LinkedIn](https://www.linkedin.com/in/guilherme-lopes-vieira)
