@@ -25,8 +25,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelopesvieira&layout=compact&theme=tokyonight)
 
-
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://www.linkedin.com/in/guilherme-lopes-vieira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-lopes-vieira/)
