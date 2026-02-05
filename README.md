@@ -1,42 +1,31 @@
-👋 Hi, I'm Guilherme Lopes Vieira
+# 👋 Hi, I'm Guilherme Lopes Vieira  
 
-💻 Backend Developer Intern | 📍 Brazil | 🎯 Focused on learning, building, and improving backend solutions
+💻 **Backend Developer** | 📍 Brazil | 🎯 Passionate about learning and building projects  
 
-🚀 About Me
+---
 
-🎓 Computer Science undergraduate (4th semester)
+## 🚀 About Me  
+- 💼 Backend developer with a strong foundation in software development
+- 🎓 Computer Science undergraduate (5th semester)
+- 📚 Currently learning **Python** and **Java**  
+- 🔍 Interested in software development and problem solving  
+- 🌱 Always improving my logic and practicing with small projects  
 
-💡 Backend development intern focused on learning and practice
+---
 
-🧠 Strong interest in logic, problem solving, and clean code
+## 🛠️ Technologies & Tools  
+- **Languages**: Python, Java  
+- **Tools**: Git, GitHub, VS Code  
+- **Learning**: SQL, Power BI, Data analysis basics  
 
-📚 Studying and applying concepts through academic and personal projects
+---
 
-🌱 Constantly improving skills in backend development and data analysis
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
 
-🛠️ Technologies & Tools
-💻 Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
 
-Python
+---
 
-Java
-
-⚙️ Tools & Platforms
-
-Git & GitHub
-
-VS Code
-
-📚 Currently Learning
-
-SQL & relational databases
-
-Backend fundamentals (APIs, architecture, best practices)
-
-Power BI
-
-Data analysis basics
-
-📊 GitHub Stats
-
-🌐 Connect with Me
+## 🌐 Connect with me  
+[![LinkedIn](www.linkedin.com/in/guilherme-lopes-vieira)
