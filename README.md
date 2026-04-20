@@ -36,13 +36,13 @@ Estou focado em evoluir como desenvolvedor, criando projetos práticos e buscand
   <img 
     align="left" 
     height="200" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GuilhermeLopesV&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermeLopesV&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400" 
   />
 
   <img 
     align="left" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLopesV&theme=tokyonight&layout=compact&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLopesV&theme=tokyonight&layout=compact&langs_count=6&cache_seconds=86400" 
   />
 </p>
 
