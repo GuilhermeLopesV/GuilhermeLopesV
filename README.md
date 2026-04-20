@@ -1,31 +1,61 @@
-# 👋 Hi, I'm Guilherme Lopes Vieira  
+## 👩🏻‍💻 Guilherme Lopes Vieira
 
-💻 **Backend Developer** | 📍 Brazil | 🎯 Passionate about learning and building projects  
+**`Estudante de Ciência da Computação | Desenvolvedor em formação`**
 
----
+Me chamo Guilherme Lopes Vieira e estou cursando Ciência da Computação (5º período). Tenho experiência com lógica de programação e desenvolvimento de projetos, principalmente utilizando **Python, Java e tecnologias web**.
 
-## 🚀 About Me  
-- 💼 Backend developer with a strong foundation in software development
-- 🎓 Computer Science undergraduate (5th semester)
-- 📚 Currently learning **Python** and **Java**  
-- 🔍 Interested in software development and problem solving  
-- 🌱 Always improving my logic and practicing with small projects  
+Estou focado em evoluir como desenvolvedor, criando projetos práticos e buscando constantemente aprender novas tecnologias.
 
 ---
 
-## 🛠️ Technologies & Tools  
-- **Languages**: Python, Java  
-- **Tools**: Git, GitHub, VS Code  
-- **Learning**: SQL, Power BI, Data analysis basics  
+### 🚀 Sobre mim
+
+- 🎓 Ciência da Computação (5º período)  
+- 💻 Experiência com projetos acadêmicos e pessoais  
+- 📚 Estudando desenvolvimento web e backend  
+- 🎯 Em busca de estágio na área de tecnologia  
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermelopesvieira&show_icons=true&theme=tokyonight)  
+### 🛠️ Tecnologias que utilizo
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelopesvieira&layout=compact&theme=tokyonight)
+<p align="left">
+<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</p>
 
 ---
 
-## 🌐 Connect with me  
+### 📈 Estatísticas
+
+<p>
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=guilhermelopesvieira&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+  
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelopesvieira&layout=compact&theme=tokyonight" 
+  />
+</p>
+
+---
+
+### 📌 Projetos em destaque
+
+🔹 [Mini-Trello](https://github.com/guilhermelopesvieira/Mini-Trello)  
+🔹 [DevFlix](https://github.com/guilhermelopesvieira/DevFlix)  
+🔹 [tic-tac-toe](https://github.com/guilhermelopesvieira/tic-tac-toe)  
+
+---
+
+### 🌐 Connect with me  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-lopes-vieira/)
+
+📧 guilhermelopesvieira0@gmail.com
