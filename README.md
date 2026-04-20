@@ -32,17 +32,7 @@ Estou focado em evoluir como desenvolvedor, criando projetos práticos e buscand
 
 ### 📈 Estatísticas
 
-<p>
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermelopesvieira&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-  
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelopesvieira&layout=compact&theme=tokyonight&langs_count=6&hide=python" 
-  />
-</p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelopesvieira&layout=compact&theme=tokyonight&langs_count=6
 
 ---
 
