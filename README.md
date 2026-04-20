@@ -30,19 +30,26 @@ Estou focado em evoluir como desenvolvedor, criando projetos práticos e buscand
 
 ---
 
-### 📈 Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermelopesvieira&show_icons=true&theme=tokyonight&locale=pt-br" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermeLopesV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  
+
   <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelopesvieira&layout=compact&theme=tokyonight&langs_count=6" 
+    align="left" 
+    alt="Tecnologias" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLopesV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </p>
+
+<br clear="both"/>
 
 ---
 
@@ -78,24 +85,4 @@ Jogo da velha interativo desenvolvido com lógica de programação, focado em ma
   <a href="mailto:guilhermelopesvieira0@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
