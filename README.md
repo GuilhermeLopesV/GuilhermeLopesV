@@ -40,7 +40,7 @@ Estou focado em evoluir como desenvolvedor, criando projetos práticos e buscand
   
   <img 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelopesvieira&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelopesvieira&layout=compact&theme=tokyonight&langs_count=6&hide=python" 
   />
 </p>
 
@@ -48,9 +48,24 @@ Estou focado em evoluir como desenvolvedor, criando projetos práticos e buscand
 
 ### 📌 Projetos em destaque
 
-🔹 [Mini-Trello](https://github.com/guilhermelopesvieira/Mini-Trello)  
-🔹 [DevFlix](https://github.com/guilhermelopesvieira/DevFlix)  
-🔹 [tic-tac-toe](https://github.com/guilhermelopesvieira/tic-tac-toe)  
+#### 🗂️ Mini-Trello  
+Sistema de gerenciamento de tarefas estilo Kanban, permitindo organizar atividades de forma visual e intuitiva.  
+
+🔗 [Ver código](https://github.com/GuilhermeLopesV/Mini-Trello)
+
+---
+
+#### 🎬 DevFlix  
+Aplicação web inspirada em plataformas de streaming, com foco em exibição de conteúdos e interface moderna.  
+
+🔗 [Ver código](https://github.com/GuilhermeLopesV/DevFlix)
+
+---
+
+#### ❌⭕ Tic-Tac-Toe  
+Jogo da velha interativo desenvolvido com lógica de programação, focado em manipulação de estado e interface.  
+
+🔗 [Ver código](https://github.com/GuilhermeLopesV/tic-tac-toe)
 
 ---
 
