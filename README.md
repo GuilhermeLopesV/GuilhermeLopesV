@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Guilherme Lopes Vieira
 
-**`Estudante de Ciência da Computação | Desenvolvedor em formação`**
+**`Estudante de Ciência da Computação | Desenvolvedor Back-end`**
 
 Me chamo Guilherme Lopes Vieira e estou cursando Ciência da Computação (5º período). Tenho experiência com lógica de programação e desenvolvimento de projetos, principalmente utilizando **Python, Java e tecnologias web**.
 
